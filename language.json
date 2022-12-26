@@ -1,0 +1,28 @@
+[
+{
+  "warning_user_title": "WARNING NOTICE TO USERS: ",
+  "warning_user_body": "This interface is available to authorized users only as defined by your organization. Only authorized personnel properly trained in the servicing of this equipment should access this functionality. Unauthorized access, use, misuse or modification of this system may violate applicable law. The information contained in this interface may be subject to data privacy laws and must be protected and used in compliance with applicable law. Your use of this system may be subject to monitoring by your organization to ensure proper use, as permitted by law.",
+  "care_title": "Carestation Service",
+  "sw_ver": "Software Version 3",
+  "care_sw_title": "Carestation Software",
+  "uname": "User name",
+  "pwd": "Password",
+  "remember_check": "Remember me",
+  "signin_btn": "Sign in",
+  "forgot_pwd": "Forgot password?",
+  "oss_lic_info": "OSS licensing information",
+  "error_uname_pwd_req": "User name and/or password are required.",
+  "server": "Server",
+  "monitor": "Monitor",
+  "serial_no": "Serial Number",
+  "network_type": "Network Type",
+  "mac_addr": "MAC Address",
+  "service_ip_addr": "Service IP Address",
+  "service_ip_netmask": "Service IP Netmask",
+  "sw": "Software",
+  "sw_pkg": "Software Package",
+  "rights_reserved": "© 2008-2021 General Electric Company – All rights reserved.",
+  "read_lic": "Read license",
+  "user_manual": "User manual"
+}
+]
