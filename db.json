@@ -1,6 +1,7 @@
 
 [
 {
+  "content_security_policy": "script-src 'self' 'unsafe-eval' https://maps.googleapis.com 'unsafe-inline'; object-src 'self'",
   "warning_user_title": "WARNING NOTICE TO USERS: ",
   "warning_user_body": "This interface is available to authorized users only as defined by your organization. Only authorized personnel properly trained in the servicing of this equipment should access this functionality. Unauthorized access, use, misuse or modification of this system may violate applicable law. The information contained in this interface may be subject to data privacy laws and must be protected and used in compliance with applicable law. Your use of this system may be subject to monitoring by your organization to ensure proper use, as permitted by law.",
   "care_title": "Carestation Service",
